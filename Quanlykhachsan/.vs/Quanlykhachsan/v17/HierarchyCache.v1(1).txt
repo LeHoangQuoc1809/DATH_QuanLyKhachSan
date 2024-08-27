@@ -1,0 +1,200 @@
+﻿++Solution 'Quanlykhachsan' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:Quanlykhachsan.sln
+++Quanlykhachsan
+i:{00000000-0000-0000-0000-000000000000}:Quanlykhachsan
+++Properties
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\properties\
+++References
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:
+++Resources
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\resources\
+++Account.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\account.cs
+++AddFirstAcount.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\addfirstacount.cs
+++App.config
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\app.config
+++CCricleButton.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\ccriclebutton.cs
+++ChangePassWord.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\changepassword.cs
+++ChangeTypeAccountForm.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\changetypeaccountform.cs
+++ChooseMode.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\choosemode.cs
+++Employee.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\employee.cs
+++Form1.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\form1.cs
+++FormBookGroup.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\formbookgroup.cs
+++FormBookSingle.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\formbooksingle.cs
+++FormButtonRoomRentalSingle.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\formbuttonroomrentalsingle.cs
+++FormHistoryBill.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\formhistorybill.cs
+++FormInFo_BookGroup.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\forminfo_bookgroup.cs
+++FormInFoRoom.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\forminforoom.cs
+++FormSingleBill.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\formsinglebill.cs
+++iconHotel.ico
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\iconhotel.ico
+++loginForm.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\loginform.cs
+++ManagerForm.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\managerform.cs
+++ProcessingAccounts.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\processingaccounts.cs
+++ProcessingEmployee.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\processingemployee.cs
+++ProcessingPosition.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\processingposition.cs
+++ProcessingRentalSingle.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\processingrentalsingle.cs
+++ProcessingRoom.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\processingroom.cs
+++ProcessingSingleBill.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\processingsinglebill.cs
+++ProcessingTypeRoom.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\processingtyperoom.cs
+++Program.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\program.cs
+++RankRoomErrorWarning.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\rankroomerrorwarning.cs
+++ReceptionistForm.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\receptionistform.cs
+++RentalGroup.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\rentalgroup.cs
+++RentalPrice.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\rentalprice.cs
+++RentalSingle.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\rentalsingle.cs
+++Room.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\room.cs
+++SingleBill.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\singlebill.cs
+++SizeRoomErrorWarning.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\sizeroomerrorwarning.cs
+++TypeAccountErrorWarning.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\typeaccounterrorwarning.cs
+++TypeRoom.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\typeroom.cs
+++TypeRoomManagement.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\typeroommanagement.cs
+++ViewUnit.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\viewunit.cs
+++AssemblyInfo.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\properties\assemblyinfo.cs
+++Resources.resx
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\properties\resources.resx
+++Settings.settings
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\properties\settings.settings
+++Microsoft.CSharp
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:
+++System
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:
+++System.Core
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:
+++System.Data
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:
+++System.Data.DataSetExtensions
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:
+++System.Deployment
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:
+++System.Drawing
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:
+++System.Net.Http
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:
+++System.Windows.Forms
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:
+++System.Xml
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:
+++System.Xml.Linq
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:
+++reload.png
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\resources\reload.png
+++AddFirstAcount.Designer.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\addfirstacount.designer.cs
+++AddFirstAcount.resx
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\addfirstacount.resx
+++ChangePassWord.Designer.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\changepassword.designer.cs
+++ChangePassWord.resx
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\changepassword.resx
+++ChangeTypeAccountForm.Designer.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\changetypeaccountform.designer.cs
+++ChangeTypeAccountForm.resx
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\changetypeaccountform.resx
+++ChooseMode.Designer.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\choosemode.designer.cs
+++ChooseMode.resx
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\choosemode.resx
+++Form1.Designer.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\form1.designer.cs
+++Form1.resx
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\form1.resx
+++FormBookGroup.Designer.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\formbookgroup.designer.cs
+++FormBookGroup.resx
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\formbookgroup.resx
+++FormBookSingle.Designer.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\formbooksingle.designer.cs
+++FormBookSingle.resx
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\formbooksingle.resx
+++FormButtonRoomRentalSingle.Designer.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\formbuttonroomrentalsingle.designer.cs
+++FormButtonRoomRentalSingle.resx
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\formbuttonroomrentalsingle.resx
+++FormHistoryBill.Designer.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\formhistorybill.designer.cs
+++FormHistoryBill.resx
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\formhistorybill.resx
+++FormInFo_BookGroup.Designer.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\forminfo_bookgroup.designer.cs
+++FormInFo_BookGroup.resx
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\forminfo_bookgroup.resx
+++FormInFoRoom.Designer.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\forminforoom.designer.cs
+++FormInFoRoom.resx
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\forminforoom.resx
+++FormSingleBill.Designer.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\formsinglebill.designer.cs
+++FormSingleBill.resx
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\formsinglebill.resx
+++loginForm.Designer.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\loginform.designer.cs
+++loginForm.resx
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\loginform.resx
+++ManagerForm.Designer.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\managerform.designer.cs
+++ManagerForm.resx
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\managerform.resx
+++RankRoomErrorWarning.Designer.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\rankroomerrorwarning.designer.cs
+++RankRoomErrorWarning.resx
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\rankroomerrorwarning.resx
+++ReceptionistForm.Designer.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\receptionistform.designer.cs
+++ReceptionistForm.resx
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\receptionistform.resx
+++SizeRoomErrorWarning.Designer.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\sizeroomerrorwarning.designer.cs
+++SizeRoomErrorWarning.resx
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\sizeroomerrorwarning.resx
+++TypeAccountErrorWarning.Designer.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\typeaccounterrorwarning.designer.cs
+++TypeAccountErrorWarning.resx
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\typeaccounterrorwarning.resx
+++TypeRoomManagement.Designer.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\typeroommanagement.designer.cs
+++TypeRoomManagement.resx
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\typeroommanagement.resx
+++Resources.Designer.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\properties\resources.designer.cs
+++Settings.Designer.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\properties\settings.designer.cs
+++ProcessingRentalGroup.cs
+i:{979b140f-c055-4ea9-873b-562b926d4b9a}:c:\data (d)\ổ d cũ\c#\doantinhoc\crr\quanlykhachsan\quanlykhachsan\processingrentalgroup.cs

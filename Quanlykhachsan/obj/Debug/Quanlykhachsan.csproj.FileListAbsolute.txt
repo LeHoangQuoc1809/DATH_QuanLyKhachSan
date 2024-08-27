@@ -1,0 +1,279 @@
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.csproj.AssemblyReference.cache
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.csproj.SuggestedBindingRedirects.cache
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.csproj.GenerateResource.cache
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.csproj.CoreCompileInputs.cache
+D:\TAI LIEU\HK5\DoAnTinHoc\QuanLyKhachSan\Quanlykhachsan\obj\Debug\Quanlykhachsan.loginForm.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\QuanLyKhachSan\Quanlykhachsan\obj\Debug\Quanlykhachsan.AddFirstAcount.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\QuanLyKhachSan\Quanlykhachsan\bin\Debug\Quanlykhachsan.exe.config
+D:\TAI LIEU\HK5\DoAnTinHoc\QuanLyKhachSan\Quanlykhachsan\bin\Debug\Quanlykhachsan.exe
+D:\TAI LIEU\HK5\DoAnTinHoc\QuanLyKhachSan\Quanlykhachsan\bin\Debug\Quanlykhachsan.pdb
+D:\TAI LIEU\HK5\DoAnTinHoc\QuanLyKhachSan\Quanlykhachsan\obj\Debug\Quanlykhachsan.Properties.Resources.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\QuanLyKhachSan\Quanlykhachsan\obj\Debug\Quanlykhachsan.exe
+D:\TAI LIEU\HK5\DoAnTinHoc\QuanLyKhachSan\Quanlykhachsan\obj\Debug\Quanlykhachsan.pdb
+D:\TAI LIEU\HK5\DoAnTinHoc\QuanLyKhachSan\Quanlykhachsan\obj\Debug\Quanlykhachsan.ManagerForm.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\QuanLyKhachSan\Quanlykhachsan\obj\Debug\Quanlykhachsan.ChooseMode.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\QuanLyKhachSan\Quanlykhachsan\obj\Debug\Quanlykhachsan.ChangePassWord.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\QuanLyKhachSan\Quanlykhachsan\obj\Debug\Quanlykhachsan.ReceptionistForm.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\QuanLyKhachSan\Quanlykhachsan\obj\Debug\Quanlykhachsan.TypeRoomMngForm.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\QuanLyKhachSan\Quanlykhachsan\obj\Debug\Quanlykhachsan.SizeRoomErrorWarning.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\QuanLyKhachSan\Quanlykhachsan\obj\Debug\Quanlykhachsan.RankRoomErrorWarning.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\QuanLyKhachSan\Quanlykhachsan\obj\Debug\Quanlykhachsan.PositionChangeForm.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\QuanLyKhachSan\Quanlykhachsan\obj\Debug\Quanlykhachsan.PositionErrorWarning.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\QuanLyKhachSan\Quanlykhachsan\obj\Debug\Quanlykhachsan.ChangeTypeAccountForm.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\QuanLyKhachSan\Quanlykhachsan\obj\Debug\Quanlykhachsan.TypeAccountErrorWarning.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\QuanLyKhachSan\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormBookSingle.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\QuanLyKhachSan\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormInFoRoom.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\QuanLyKhachSan\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormButtonRoomRentalSingle.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\QuanLyKhachSan\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormSingleBill.resources
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan (1)\Quanlykhachsan\Quanlykhachsan\bin\Debug\Quanlykhachsan.exe.config
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan (1)\Quanlykhachsan\Quanlykhachsan\bin\Debug\Quanlykhachsan.exe
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan (1)\Quanlykhachsan\Quanlykhachsan\bin\Debug\Quanlykhachsan.pdb
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan (1)\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.csproj.AssemblyReference.cache
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan (1)\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.csproj.SuggestedBindingRedirects.cache
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan (1)\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.AddFirstAcount.resources
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan (1)\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.ChangePassWord.resources
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan (1)\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.ChangeTypeAccountForm.resources
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan (1)\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.ChooseMode.resources
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan (1)\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormBookSingle.resources
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan (1)\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormButtonRoomRentalSingle.resources
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan (1)\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormInFoRoom.resources
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan (1)\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormSingleBill.resources
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan (1)\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.loginForm.resources
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan (1)\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.ManagerForm.resources
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan (1)\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.PositionChangeForm.resources
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan (1)\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.PositionErrorWarning.resources
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan (1)\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.Properties.Resources.resources
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan (1)\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.RankRoomErrorWarning.resources
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan (1)\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.ReceptionistForm.resources
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan (1)\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.SizeRoomErrorWarning.resources
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan (1)\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.TypeAccountErrorWarning.resources
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan (1)\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.TypeRoomMngForm.resources
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan (1)\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.csproj.GenerateResource.cache
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan (1)\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.csproj.CoreCompileInputs.cache
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan (1)\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.exe
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan (1)\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.pdb
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan (1)\Quanlykhachsan\Quanlykhachsan\bin\Debug\Quanlykhachsan.exe.config
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan (1)\Quanlykhachsan\Quanlykhachsan\bin\Debug\Quanlykhachsan.exe
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan (1)\Quanlykhachsan\Quanlykhachsan\bin\Debug\Quanlykhachsan.pdb
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan (1)\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.csproj.AssemblyReference.cache
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan (1)\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.csproj.SuggestedBindingRedirects.cache
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan (1)\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.AddFirstAcount.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan (1)\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.ChangePassWord.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan (1)\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.ChangeTypeAccountForm.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan (1)\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.ChooseMode.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan (1)\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormBookSingle.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan (1)\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormButtonRoomRentalSingle.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan (1)\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormInFoRoom.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan (1)\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormSingleBill.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan (1)\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.loginForm.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan (1)\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.ManagerForm.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan (1)\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.Properties.Resources.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan (1)\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.RankRoomErrorWarning.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan (1)\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.ReceptionistForm.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan (1)\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.SizeRoomErrorWarning.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan (1)\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.TypeAccountErrorWarning.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan (1)\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.TypeRoomMngForm.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan (1)\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.csproj.GenerateResource.cache
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan (1)\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.csproj.CoreCompileInputs.cache
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan (1)\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.exe
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan (1)\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.pdb
+D:\TAI LIEU\HK5\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\bin\Debug\Quanlykhachsan.exe.config
+D:\TAI LIEU\HK5\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\bin\Debug\Quanlykhachsan.exe
+D:\TAI LIEU\HK5\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\bin\Debug\Quanlykhachsan.pdb
+D:\TAI LIEU\HK5\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.csproj.AssemblyReference.cache
+D:\TAI LIEU\HK5\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.csproj.SuggestedBindingRedirects.cache
+D:\TAI LIEU\HK5\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.AddFirstAcount.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.ChangePassWord.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.ChangeTypeAccountForm.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.ChooseMode.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormBookSingle.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormButtonRoomRentalSingle.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormInFoRoom.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormSingleBill.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.loginForm.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.ManagerForm.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.Properties.Resources.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.RankRoomErrorWarning.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.ReceptionistForm.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.SizeRoomErrorWarning.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.TypeAccountErrorWarning.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.TypeRoomMngForm.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.csproj.GenerateResource.cache
+D:\TAI LIEU\HK5\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.csproj.CoreCompileInputs.cache
+D:\TAI LIEU\HK5\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.exe
+D:\TAI LIEU\HK5\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.pdb
+D:\TAI LIEU\HK5\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.Form1.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormBookGroup.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormHistoryBill.resources
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\bin\Debug\Quanlykhachsan.exe.config
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\bin\Debug\Quanlykhachsan.exe
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\bin\Debug\Quanlykhachsan.pdb
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.csproj.AssemblyReference.cache
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.csproj.SuggestedBindingRedirects.cache
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.AddFirstAcount.resources
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.ChangePassWord.resources
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.ChangeTypeAccountForm.resources
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.ChooseMode.resources
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.Form1.resources
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormBookGroup.resources
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormBookSingle.resources
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormButtonRoomRentalSingle.resources
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormHistoryBill.resources
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormInFoRoom.resources
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormSingleBill.resources
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.loginForm.resources
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.ManagerForm.resources
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.Properties.Resources.resources
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.RankRoomErrorWarning.resources
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.ReceptionistForm.resources
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.SizeRoomErrorWarning.resources
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.TypeAccountErrorWarning.resources
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.TypeRoomMngForm.resources
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.csproj.GenerateResource.cache
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.csproj.CoreCompileInputs.cache
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.exe
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.pdb
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormInFo_BookGroup.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\bin\Debug\Quanlykhachsan.exe.config
+D:\TAI LIEU\HK5\DoAnTinHoc\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\bin\Debug\Quanlykhachsan.exe
+D:\TAI LIEU\HK5\DoAnTinHoc\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\bin\Debug\Quanlykhachsan.pdb
+D:\TAI LIEU\HK5\DoAnTinHoc\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.csproj.AssemblyReference.cache
+D:\TAI LIEU\HK5\DoAnTinHoc\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.csproj.SuggestedBindingRedirects.cache
+D:\TAI LIEU\HK5\DoAnTinHoc\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.AddFirstAcount.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.ChangePassWord.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.ChangeTypeAccountForm.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.ChooseMode.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.Form1.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormBookGroup.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormBookSingle.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormButtonRoomRentalSingle.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormHistoryBill.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormInFoRoom.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormInFo_BookGroup.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormSingleBill.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.loginForm.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.ManagerForm.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.Properties.Resources.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.RankRoomErrorWarning.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.ReceptionistForm.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.SizeRoomErrorWarning.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.TypeAccountErrorWarning.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.TypeRoomMngForm.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.csproj.GenerateResource.cache
+D:\TAI LIEU\HK5\DoAnTinHoc\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.csproj.CoreCompileInputs.cache
+D:\TAI LIEU\HK5\DoAnTinHoc\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.exe
+D:\TAI LIEU\HK5\DoAnTinHoc\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.pdb
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\bin\Debug\Quanlykhachsan.exe.config
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\bin\Debug\Quanlykhachsan.exe
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\bin\Debug\Quanlykhachsan.pdb
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.csproj.AssemblyReference.cache
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.csproj.SuggestedBindingRedirects.cache
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.AddFirstAcount.resources
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.ChangePassWord.resources
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.ChangeTypeAccountForm.resources
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.ChooseMode.resources
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.Form1.resources
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormBookGroup.resources
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormBookSingle.resources
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormHistoryBill.resources
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormInFo_BookGroup.resources
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormSingleBill.resources
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.loginForm.resources
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.ManagerForm.resources
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.Properties.Resources.resources
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.RankRoomErrorWarning.resources
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.ReceptionistForm.resources
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.SizeRoomErrorWarning.resources
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.TypeAccountErrorWarning.resources
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.TypeRoomMngForm.resources
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.csproj.GenerateResource.cache
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.csproj.CoreCompileInputs.cache
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.exe
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.pdb
+C:\DATA (D)\ổ D cũ\C#\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\DoAnTinHoc 30-11-2022\Crr\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormToTalReceptionist.resources
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan 1-12\Quanlykhachsan\bin\Debug\Quanlykhachsan.exe.config
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan 1-12\Quanlykhachsan\bin\Debug\Quanlykhachsan.exe
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan 1-12\Quanlykhachsan\bin\Debug\Quanlykhachsan.pdb
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan 1-12\Quanlykhachsan\obj\Debug\Quanlykhachsan.csproj.AssemblyReference.cache
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan 1-12\Quanlykhachsan\obj\Debug\Quanlykhachsan.csproj.SuggestedBindingRedirects.cache
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan 1-12\Quanlykhachsan\obj\Debug\Quanlykhachsan.AddFirstAcount.resources
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan 1-12\Quanlykhachsan\obj\Debug\Quanlykhachsan.ChangePassWord.resources
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan 1-12\Quanlykhachsan\obj\Debug\Quanlykhachsan.ChangeTypeAccountForm.resources
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan 1-12\Quanlykhachsan\obj\Debug\Quanlykhachsan.ChooseMode.resources
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan 1-12\Quanlykhachsan\obj\Debug\Quanlykhachsan.Form1.resources
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan 1-12\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormBookGroup.resources
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan 1-12\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormBookSingle.resources
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan 1-12\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormHistoryBill.resources
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan 1-12\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormInFo_BookGroup.resources
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan 1-12\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormSingleBill.resources
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan 1-12\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormToTalReceptionist.resources
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan 1-12\Quanlykhachsan\obj\Debug\Quanlykhachsan.loginForm.resources
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan 1-12\Quanlykhachsan\obj\Debug\Quanlykhachsan.ManagerForm.resources
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan 1-12\Quanlykhachsan\obj\Debug\Quanlykhachsan.Properties.Resources.resources
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan 1-12\Quanlykhachsan\obj\Debug\Quanlykhachsan.RankRoomErrorWarning.resources
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan 1-12\Quanlykhachsan\obj\Debug\Quanlykhachsan.ReceptionistForm.resources
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan 1-12\Quanlykhachsan\obj\Debug\Quanlykhachsan.SizeRoomErrorWarning.resources
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan 1-12\Quanlykhachsan\obj\Debug\Quanlykhachsan.TypeAccountErrorWarning.resources
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan 1-12\Quanlykhachsan\obj\Debug\Quanlykhachsan.TypeRoomMngForm.resources
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan 1-12\Quanlykhachsan\obj\Debug\Quanlykhachsan.csproj.GenerateResource.cache
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan 1-12\Quanlykhachsan\obj\Debug\Quanlykhachsan.csproj.CoreCompileInputs.cache
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan 1-12\Quanlykhachsan\obj\Debug\Quanlykhachsan.exe
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan 1-12\Quanlykhachsan\obj\Debug\Quanlykhachsan.pdb
+C:\DATA (D)\ổ D cũ\C#\Quanlykhachsan 1-12\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormGroupBill.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan 1-12\Quanlykhachsan\bin\Debug\Quanlykhachsan.exe.config
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan 1-12\Quanlykhachsan\bin\Debug\Quanlykhachsan.exe
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan 1-12\Quanlykhachsan\bin\Debug\Quanlykhachsan.pdb
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan 1-12\Quanlykhachsan\obj\Debug\Quanlykhachsan.csproj.AssemblyReference.cache
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan 1-12\Quanlykhachsan\obj\Debug\Quanlykhachsan.csproj.SuggestedBindingRedirects.cache
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan 1-12\Quanlykhachsan\obj\Debug\Quanlykhachsan.AddFirstAcount.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan 1-12\Quanlykhachsan\obj\Debug\Quanlykhachsan.ChangePassWord.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan 1-12\Quanlykhachsan\obj\Debug\Quanlykhachsan.ChangeTypeAccountForm.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan 1-12\Quanlykhachsan\obj\Debug\Quanlykhachsan.ChooseMode.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan 1-12\Quanlykhachsan\obj\Debug\Quanlykhachsan.Form1.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan 1-12\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormBookGroup.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan 1-12\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormBookSingle.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan 1-12\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormGroupBill.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan 1-12\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormHistoryBill.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan 1-12\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormInFo_BookGroup.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan 1-12\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormSingleBill.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan 1-12\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormToTalReceptionist.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan 1-12\Quanlykhachsan\obj\Debug\Quanlykhachsan.loginForm.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan 1-12\Quanlykhachsan\obj\Debug\Quanlykhachsan.ManagerForm.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan 1-12\Quanlykhachsan\obj\Debug\Quanlykhachsan.Properties.Resources.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan 1-12\Quanlykhachsan\obj\Debug\Quanlykhachsan.RankRoomErrorWarning.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan 1-12\Quanlykhachsan\obj\Debug\Quanlykhachsan.ReceptionistForm.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan 1-12\Quanlykhachsan\obj\Debug\Quanlykhachsan.SizeRoomErrorWarning.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan 1-12\Quanlykhachsan\obj\Debug\Quanlykhachsan.TypeAccountErrorWarning.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan 1-12\Quanlykhachsan\obj\Debug\Quanlykhachsan.TypeRoomMngForm.resources
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan 1-12\Quanlykhachsan\obj\Debug\Quanlykhachsan.csproj.GenerateResource.cache
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan 1-12\Quanlykhachsan\obj\Debug\Quanlykhachsan.csproj.CoreCompileInputs.cache
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan 1-12\Quanlykhachsan\obj\Debug\Quanlykhachsan.exe
+D:\TAI LIEU\HK5\DoAnTinHoc\Quanlykhachsan 1-12\Quanlykhachsan\obj\Debug\Quanlykhachsan.pdb
+D:\Document\HK5\DoAnTinHoc\Quanlykhachsan\Quanlykhachsan\bin\Debug\Quanlykhachsan.exe.config
+D:\Document\HK5\DoAnTinHoc\Quanlykhachsan\Quanlykhachsan\bin\Debug\Quanlykhachsan.exe
+D:\Document\HK5\DoAnTinHoc\Quanlykhachsan\Quanlykhachsan\bin\Debug\Quanlykhachsan.pdb
+D:\Document\HK5\DoAnTinHoc\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.csproj.AssemblyReference.cache
+D:\Document\HK5\DoAnTinHoc\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.AddFirstAcount.resources
+D:\Document\HK5\DoAnTinHoc\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.ChangePassWord.resources
+D:\Document\HK5\DoAnTinHoc\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.ChangeTypeAccountForm.resources
+D:\Document\HK5\DoAnTinHoc\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.ChooseMode.resources
+D:\Document\HK5\DoAnTinHoc\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.Form1.resources
+D:\Document\HK5\DoAnTinHoc\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormBookGroup.resources
+D:\Document\HK5\DoAnTinHoc\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormBookSingle.resources
+D:\Document\HK5\DoAnTinHoc\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormGroupBill.resources
+D:\Document\HK5\DoAnTinHoc\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormHistoryBill.resources
+D:\Document\HK5\DoAnTinHoc\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormInFo_BookGroup.resources
+D:\Document\HK5\DoAnTinHoc\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormSingleBill.resources
+D:\Document\HK5\DoAnTinHoc\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.FormToTalReceptionist.resources
+D:\Document\HK5\DoAnTinHoc\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.loginForm.resources
+D:\Document\HK5\DoAnTinHoc\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.ManagerForm.resources
+D:\Document\HK5\DoAnTinHoc\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.Properties.Resources.resources
+D:\Document\HK5\DoAnTinHoc\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.RankRoomErrorWarning.resources
+D:\Document\HK5\DoAnTinHoc\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.ReceptionistForm.resources
+D:\Document\HK5\DoAnTinHoc\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.SizeRoomErrorWarning.resources
+D:\Document\HK5\DoAnTinHoc\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.TypeAccountErrorWarning.resources
+D:\Document\HK5\DoAnTinHoc\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.TypeRoomMngForm.resources
+D:\Document\HK5\DoAnTinHoc\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.csproj.GenerateResource.cache
+D:\Document\HK5\DoAnTinHoc\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.csproj.CoreCompileInputs.cache
+D:\Document\HK5\DoAnTinHoc\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.exe
+D:\Document\HK5\DoAnTinHoc\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.pdb
